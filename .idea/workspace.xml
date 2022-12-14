@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b3ab0fd3-085a-4fff-bb16-1eafb0cf962c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,28 @@
       <option name="project" value="LOCAL" />
       <updated>1670999681397</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test project no 2, commit 2">
+      <created>1671001312064</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671001312064</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test project no 2, commit 3, selected all files this time">
+      <created>1671001407707</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671001407707</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test project no 2, commit 4, updated code">
+      <created>1671001481760</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671001481760</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,6 +105,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test project no 2, commit 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="test project no 2, commit 1" />
+    <MESSAGE value="test project no 2, commit 2" />
+    <MESSAGE value="test project no 2, commit 3, selected all files this time" />
+    <MESSAGE value="test project no 2, commit 4, updated code" />
+    <option name="LAST_COMMIT_MESSAGE" value="test project no 2, commit 4, updated code" />
   </component>
 </project>
